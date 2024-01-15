@@ -1,3 +1,7 @@
+> Warning: The project has been renamed to Fluid and repository has been moved to https://github.com/Samerion/Fluid
+>
+> It is kept for backwards compatibility, but you are advised to upgrade to the new repository.
+
 <img src="./logo.png" alt="Glui" height="144" align="left" />
 
 A simple and declarative high-level UI library for [Raylib](https://www.raylib.com/) & [Dlang](https://dlang.org/).
