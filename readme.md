@@ -1,4 +1,5 @@
-> Warning: The project has been renamed to Fluid and repository has been moved to https://github.com/Samerion/Fluid
+> [!WARNING]
+> The project has been renamed to Fluid and repository has been moved to https://github.com/Samerion/Fluid
 >
 > It is kept for backwards compatibility, but you are advised to upgrade to the new repository.
 
